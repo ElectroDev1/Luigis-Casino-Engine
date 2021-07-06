@@ -1,6 +1,6 @@
 # Luigis-Casino
 
-Thank you for downloading Luigi's Casino.
+Thank you for downloading Luigi's Casino Engine.
 
 --GENERAL INFO--
 
